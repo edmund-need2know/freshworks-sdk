@@ -1,0 +1,19 @@
+{
+  "name": "freshworks-api",
+  "version": "1.3.0",
+  "description": "Provides a series of methods for interacting with the Freshworks CRM REST api.",
+  "main": "FreshWorksCrm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Freshworks", "Freshworks CRM"],
+  "author": "Edmund Munday <edmund@need2know.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "prettier": "^2.3.1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
