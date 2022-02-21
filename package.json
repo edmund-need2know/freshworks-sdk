@@ -1,10 +1,14 @@
 {
   "name": "freshworks-api",
-  "version": "1.3.0",
+  "version": "1.4.1",
   "description": "Provides a series of methods for interacting with the Freshworks CRM REST api.",
   "main": "FreshWorksCrm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edmund-need2know/freshworks-sdk"
   },
   "keywords": ["Freshworks", "Freshworks CRM"],
   "author": "Edmund Munday <edmund@need2know.io>",

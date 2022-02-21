@@ -10,6 +10,8 @@
 
 > Provides a series of methods for interacting with the Freshworks CRM REST api.
 
+> Contributions welcome.
+
 ## Install
 
 ```sh
